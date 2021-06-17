@@ -1,4 +1,4 @@
-# Simple-Blockchain 🧱~🧱~🧱
+# Simple-Blockchain 🧱-~-🧱-~-🧱
 
   ![Ilustration](https://github.com/VitorMob/Simple-Blockchain/blob/main/assets/5e77yv.png)
 
