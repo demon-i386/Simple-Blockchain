@@ -1,8 +1,8 @@
-# Simple-Blockchain
+# Simple-Blockchain 🧱~🧱~🧱
 
   ![Ilustration](https://github.com/VitorMob/Simple-Blockchain/blob/main/assets/5e77yv.png)
 
-# Description
+# Description 🗒️
   
   a simple blockchain code where I make a chain of blocks connected to each other, 
   if a data changes a hash (signature) will change, in other words, every 
